@@ -1,0 +1,6 @@
+DS3231 est la bibliothèque à installer pour utiliser le DS3231
+
+
+Les fichiers .ino sont pour le code des principaux composants à utiliser
+Le code est pour avoir la structure des variables, fonctions, commandes...
+
