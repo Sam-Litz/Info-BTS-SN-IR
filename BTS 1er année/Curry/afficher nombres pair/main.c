@@ -22,4 +22,8 @@
 		printf("%d\n",x);
 		x=x-2;  
     }
+
+return 0;
+
 }
+
