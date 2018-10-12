@@ -19,7 +19,7 @@
 
 	//while loop
 	
-	while(x != 0  && x=x-2)
+	while(x != 0)
 		printf("%d\n",x);
 		x=x-2;
 		
