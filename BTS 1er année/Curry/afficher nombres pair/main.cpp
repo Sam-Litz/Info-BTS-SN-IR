@@ -18,7 +18,10 @@
 	//while loop
 	
 	while(x != 0)
+<<<<<<< HEAD
 	{
+=======
+>>>>>>> 1748af74b198d1db79000338116cf0c9035588a8
 		printf("%d\n",x);
 		x=x-2;  
     }
