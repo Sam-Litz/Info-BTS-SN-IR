@@ -50,17 +50,25 @@ int main()
 		 	printf("Vous n'avez pas saisi une bonne valeur, veillez recommencer");
 		 }	
 		 
-   while(somme>2)
-   {
-     somme = somme - 2;
-     euros2++;
-   }
-   
-	while(somme>1)
-   {
-     somme = somme - 1;
-     euros1++;
-   }
+		while(somme!=0)
+		{
+		  if(somme>2)
+		  {
+		    somme -= 2;
+		    euros2++;
+		  }
+		  else if(somme>1)
+		       {
+		         somme -=1;
+		         euros1++;
+		       }
+		       else if(somme>0.5)
+		            {
+		              
+		            }
+		}
+		 
+		 
 	
 	while(somme>0.5)
    {
