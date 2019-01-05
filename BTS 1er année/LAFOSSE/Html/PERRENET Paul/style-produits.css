@@ -1,0 +1,11 @@
+body{background-color: 444444;margin: 0px;background-size:cover;font-family: 'Calibri'}
+.menu{margin-top: 20px;}
+.logo{margin-left: 80px;margin-top:0px;height: 40%}
+img.logo{vertical-align: 150%}
+.text {margin-left: 160px;}
+.text h1{color: white;font-size: 60px;}
+.cont {margin-left: 50px;margin-right: 50px;height: 900px;text-align: center;}
+.cont h1{color: white;font-size: 18px;text-align: center;}
+footer{background-color: #808080;margin-left: 1100px;margin-right: 50px;height: 30px;text-align: center;}
+footer p{color: white;font-size: 18px;}
+.espace1{height: 25px;}

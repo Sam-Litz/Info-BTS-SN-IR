@@ -3,17 +3,18 @@
  
  int main ()
 {
-	long int nb10; //définition d'un long int pour sauvegarder la valeur du nombre décimal
+	long int nb10, copie; //définition d'un long int pour sauvegarder la valeur du nombre décimal
 	
 	// définition de variable a et b pour le tableau à la fin du programme 
 	//et du reste pour faire les calculs 
 	int a = 1,b,reste;
 	
 	//tableau pour stocker les valeurs du calcul
-	char nb2[100];
+	char nb2[8];
 	
 	printf("Donne ton chiffre decimal :");
-	scanf("%ld",&nb2);
+	scanf("%ld",&nb10);
+	
 	
 	//boucle while pour faire le calcul tant que le nombre que l'on a donné au début 
 	//n'est pas égale à 0
@@ -37,7 +38,7 @@
 	//boucle pour afficher
 	for(b = a-1; b >0; b--)
 	{
-		printf("%c", nb2[b]);
+		printf("%c",nb2[b]);
 	}
 	
 	return 0;

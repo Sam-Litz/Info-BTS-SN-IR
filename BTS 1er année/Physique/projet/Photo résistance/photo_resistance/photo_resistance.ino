@@ -34,6 +34,15 @@ void loop()
   valueCal = map(analogValue,90,900,0,1100); 
 //
 
+/*
+ * moyenne avec for ou while
+ *fin for -> moyenne 
+ * moyenne comparée avec seuils...(3)
+ * 
+ * if(s1<moyenne<s2 &&  ) 
+ * 
+ */
+
 
 //
   digitalWrite(led1, LOW);       //
