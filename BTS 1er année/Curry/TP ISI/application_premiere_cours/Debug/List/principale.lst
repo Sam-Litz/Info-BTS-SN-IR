@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.30  C:\Users\Sam Litz\Documents\Travail\Etudes\BTS SN IR\BTS 1er année\Curry\TP ISI\application_premiere_cours\Debug\List\principale.asm Fri Jan 25 17:16:47 2019
+AVRASM ver. 2.1.30  C:\Users\Sam Litz\Documents\Travail\Etudes\BTS SN IR\BTS 1er année\Curry\TP ISI\application_premiere_cours\Debug\List\principale.asm Fri Feb 01 15:01:05 2019
 
 C:\Users\Sam Litz\Documents\Travail\Etudes\BTS SN IR\BTS 1er année\Curry\TP ISI\application_premiere_cours\Debug\List\principale.asm(1095): warning: Register r4 already defined by the .DEF directive
 C:\Users\Sam Litz\Documents\Travail\Etudes\BTS SN IR\BTS 1er année\Curry\TP ISI\application_premiere_cours\Debug\List\principale.asm(1096): warning: Register r5 already defined by the .DEF directive

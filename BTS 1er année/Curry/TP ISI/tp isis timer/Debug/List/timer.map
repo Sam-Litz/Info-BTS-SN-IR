@@ -1,0 +1,23 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+compteur                                                                          R4,R5        2
+quartet                                                                           R6,R7        2
+tempo                                                                             R8,R9        2
+interruption                                                                      R10,R11      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+ext_int0_isr                                                                      0x0005F      8
+ext_int1_isr                                                                      0x00067      7
+timer0_comp_isr                                                                   0x0006E     40
+main                                                                              0x00096     56
