@@ -1,9 +1,0 @@
-VERSION:3 SOURCE_TIMESTAMP:4E398A16
-NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\mega32.h"
-NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\delay.h"
-NODE:M LEVEL:0 LINE:27 "TEMPS"
-NODE:V LEVEL:0 LINE:28 "compteur -> R4,R5"
-NODE:V LEVEL:0 LINE:29 "quartet -> R6,R7"
-NODE:V LEVEL:0 LINE:30 "i -> R8,R9"
-NODE:F LEVEL:0 LINE:33 "ext_int0_isr(void)"
-NODE:F LEVEL:0 LINE:39 "main(void)"
