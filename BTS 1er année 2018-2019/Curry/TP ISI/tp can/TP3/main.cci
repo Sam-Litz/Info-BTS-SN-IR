@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:4E8A4D84
+NODE:I LEVEL:0 LINE:22 "C:\cvavreval\inc\mega32.h"
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavreval\inc\alcd.h"
+NODE:V LEVEL:0 LINE:28 "riot -> RAM:????"
+NODE:V LEVEL:0 LINE:29 "riot2 -> RAM:????"
+NODE:M LEVEL:0 LINE:31 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:35 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:48 "main(void)"
